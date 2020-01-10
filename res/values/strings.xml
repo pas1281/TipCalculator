@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="tip_calculator">Tip Calculator</string>
+    <string name="bill_amount">Bill amount:</string>
+    <string name="poor">poor</string>
+    <string name="average">Average</string>
+    <string name="great">Great</string>
+    <string name="amazing">Amazing</string>
+    <string name="dollar">$</string>
+    <string name="tip_amount">Tip amount:</string>
+    <string name="total_bill">Total bill:</string>
+    <string name="submit">Submit</string>
+    <string name="decrease">decrease</string>
+    <string name="increase">increase</string>
+    <string name="tip">Tip %</string>
+    <string name="enter_dollar_amount">Enter dollar amount</string>
+</resources>
